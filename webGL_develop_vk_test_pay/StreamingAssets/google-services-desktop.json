@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "352895532891-cee4b8g9qh8ud83djokt696ho2on622t.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAft3kQvA-ckLybBBZz9Fo8CNp3V4pZxZ0"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:352895532891:ios:7f9c9a6751459b412b247e", 
+        "android_client_info": {
+          "package_name": "com.okg.mergecats"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "merge-cats-308406.appspot.com", 
+    "project_id": "merge-cats-308406", 
+    "firebase_url": "https://google.com", 
+    "project_number": "352895532891"
+  }
+}
